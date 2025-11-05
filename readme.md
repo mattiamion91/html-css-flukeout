@@ -1,3 +1,5 @@
-# Titolo del Progetto
+# Esercizio completato
 
-![Anteprima]()
+## É stato davvero utile!
+
+![Anteprima](screen-css.jpg)
